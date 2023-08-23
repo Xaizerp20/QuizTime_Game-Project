@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizTime_Game.QuestionsPage"
+             Title="QuizTrivia">
+    <VerticalStackLayout>
+        <Label 
+            x:Name="Questiontxt"
+            Text=""
+            VerticalOptions="Center" 
+            Margin="20"
+            HorizontalOptions="Center" />
+
+        <Button
+            x:Name="Answertxt1"
+            Text=""
+            HeightRequest="10"
+            WidthRequest="300"
+            Margin="10"
+            
+            Clicked="Onclick_Answer1"
+            />
+        <Button
+            x:Name="Answertxt2"
+            Text=""
+            HeightRequest="10"
+            WidthRequest="300"
+            Margin="10"
+            Clicked="Onclick_Answer2"
+            />
+        <Button
+            x:Name="Answertxt3"
+            Text=""
+            HeightRequest="10"
+            WidthRequest="300"
+            Margin="10"
+            Clicked="Onclick_Answer3"
+            />
+        <Button
+            x:Name="Answertxt4"
+            Text=""
+            HeightRequest="10"
+            WidthRequest="300"
+            Margin="10"
+            Clicked="Onclick_Answer4"
+            />
+
+        <Button 
+            x:Name="ProgressButton" 
+            Text=""
+            FontSize="18"
+            FontFamily="fa-regular"
+            HeightRequest="80"
+            WidthRequest="80"
+            CornerRadius="40"
+            HorizontalOptions="Center"
+            BackgroundColor="{StaticResource Secondary}"/>
+
+    </VerticalStackLayout>
+</ContentPage>

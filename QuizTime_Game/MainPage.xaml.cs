@@ -9,9 +9,12 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 	}
 
-	private void OnCounterClicked(object sender, EventArgs e)
+	private void OnPlayClick(object sender, EventArgs e)
 	{
-		count++;
+
+        Navigation.PushAsync(new QuestionsPage()); //go to questions page on click button
+		/*
+        count++;
 
 		if (count == 1)
 			CounterBtn.Text = $"Clicked {count} time";
@@ -19,6 +22,8 @@ public partial class MainPage : ContentPage
 			CounterBtn.Text = $"Clicked {count} times";
 
 		SemanticScreenReader.Announce(CounterBtn.Text);
+		*/
 	}
 }
+
 
