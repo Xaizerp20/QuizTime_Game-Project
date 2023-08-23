@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\QuizTime_Game.csproj": {}
+    "c:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\QuizTime_Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\QuizTime_Game.csproj": {
+    "c:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\QuizTime_Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\QuizTime_Game.csproj",
+        "projectUniqueName": "c:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\QuizTime_Game.csproj",
         "projectName": "QuizTime_Game",
-        "projectPath": "C:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\QuizTime_Game.csproj",
+        "projectPath": "c:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\QuizTime_Game.csproj",
         "packagesPath": "C:\\Users\\xavic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\obj\\",
+        "outputPath": "c:\\Users\\xavic\\source\\repos\\QuizTime_Game\\QuizTime_Game\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
