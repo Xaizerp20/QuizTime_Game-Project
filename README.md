@@ -17,7 +17,7 @@
 
 ## Instalación y Contribución
 
-1. Clona este repositorio: `git clone https://github.com/TuUsuario/QuizTrivia.git`
+1. Clona este repositorio: `git clone https://github.com/TuUsuario/QuizTrivia.git](https://github.com/Xaizerp20/QuizTime_Game-Project.git`
 2. Abre el proyecto en Visual Studio o tu IDE preferido.
 3. Compila y ejecuta la aplicación en el emulador o dispositivo.
 
